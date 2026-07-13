@@ -1,0 +1,19 @@
+﻿Test,Metric,Comparison,Statistic,P_Value,Notes
+Welch t-test,Talk_Count,ABUNDANCE vs FAMINE within Aggressive,-3.5977898509770507,0.0006928889541876595,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Gather_Count,ABUNDANCE vs FAMINE within Aggressive,8.149257494984449,1.0385022253149473e-10,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Talk_Rate,ABUNDANCE vs FAMINE within Aggressive,-1.674445636403193,0.10026096438277098,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Gather_Rate,ABUNDANCE vs FAMINE within Aggressive,9.343633148210877,1.5887344279618956e-12,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Social_Rate,ABUNDANCE vs FAMINE within Aggressive,-2.0238094482263596,0.048345250667713606,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Productive_Rate,ABUNDANCE vs FAMINE within Aggressive,4.891343939349348,1.0982240295835004e-05,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Talk_Count,ABUNDANCE vs FAMINE within Altruistic,21.53840169669609,9.95325196154417e-38,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Gather_Count,ABUNDANCE vs FAMINE within Altruistic,22.628131149986928,1.1479589843234217e-30,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Talk_Rate,ABUNDANCE vs FAMINE within Altruistic,-6.563249997665237,2.789380387975514e-09,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Gather_Rate,ABUNDANCE vs FAMINE within Altruistic,19.134626219001476,5.2337972815697355e-30,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Social_Rate,ABUNDANCE vs FAMINE within Altruistic,-6.258384192865649,1.036784786506451e-08,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Productive_Rate,ABUNDANCE vs FAMINE within Altruistic,30.111979593229776,3.362259709745078e-42,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Talk_Count,ABUNDANCE vs FAMINE within Dominant,9.66491721435606,1.1323729835535005e-14,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Gather_Count,ABUNDANCE vs FAMINE within Dominant,39.749006419764854,4.872380236104142e-44,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Talk_Rate,ABUNDANCE vs FAMINE within Dominant,-11.666019252359163,4.1981946216055896e-19,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Gather_Rate,ABUNDANCE vs FAMINE within Dominant,37.18065605291967,3.259360773943255e-53,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Social_Rate,ABUNDANCE vs FAMINE within Dominant,-14.572940320591893,3.767736008300535e-25,Positive statistic means ABUNDANCE is higher.
+Welch t-test,Productive_Rate,ABUNDANCE vs FAMINE within Dominant,45.8691126827871,4.2101231644802456e-58,Positive statistic means ABUNDANCE is higher.

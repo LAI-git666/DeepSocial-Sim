@@ -1,0 +1,25 @@
+﻿Test,Metric,Comparison,Statistic,P_Value,Effect_Size,Notes
+Welch t-test,Survival_Count,ABUNDANCE vs FAMINE within Aggressive,-3.4467064120207387,0.001173922242989557,-0.6893412824041477,Cohen_d reports ABUNDANCE - FAMINE
+Welch t-test,Survival_Count,ABUNDANCE vs FAMINE within Altruistic,40.24229575460682,7.680035890741972e-57,8.048459150921364,Cohen_d reports ABUNDANCE - FAMINE
+Welch t-test,Survival_Count,ABUNDANCE vs FAMINE within Dominant,12.137487201998344,9.988184497865687e-18,2.4274974403996685,Cohen_d reports ABUNDANCE - FAMINE
+One-way ANOVA,Survival_Count,Personality groups within ABUNDANCE,183.49462004034967,1.1033240422254548e-40,,"Groups: Aggressive, Altruistic, Dominant"
+One-way ANOVA,Survival_Count,Personality groups within FAMINE,4.061497326203207,0.01919220430738358,,"Groups: Aggressive, Altruistic, Dominant"
+Welch t-test,First_Death_Turn,ABUNDANCE vs FAMINE within Aggressive,3.7695997419732024,0.00041704810338707375,0.7539199483946406,Cohen_d reports ABUNDANCE - FAMINE
+Welch t-test,First_Death_Turn,ABUNDANCE vs FAMINE within Altruistic,77.8181818181818,2.8815180999237608e-68,15.56363636363636,Cohen_d reports ABUNDANCE - FAMINE
+Welch t-test,First_Death_Turn,ABUNDANCE vs FAMINE within Dominant,17.844899155879798,8.950653041141397e-24,3.5689798311759593,Cohen_d reports ABUNDANCE - FAMINE
+One-way ANOVA,First_Death_Turn,Personality groups within ABUNDANCE,179.94171428571437,3.069582121066594e-40,,"Groups: Aggressive, Altruistic, Dominant"
+One-way ANOVA,First_Death_Turn,Personality groups within FAMINE,24.678406482871953,5.74043728292525e-10,,"Groups: Aggressive, Altruistic, Dominant"
+Welch t-test,Total_Robs,ABUNDANCE vs FAMINE within Aggressive,-7.793622844306619,7.749185849463663e-12,-1.5587245688613238,Cohen_d reports ABUNDANCE - FAMINE
+Welch t-test,Total_Robs,ABUNDANCE vs FAMINE within Altruistic,-7.652514332541696,6.516996674150737e-10,-1.5305028665083393,Cohen_d reports ABUNDANCE - FAMINE
+Welch t-test,Total_Robs,ABUNDANCE vs FAMINE within Dominant,0.8591130972156863,0.3926926724686137,0.17182261944313726,Cohen_d reports ABUNDANCE - FAMINE
+One-way ANOVA,Total_Robs,Personality groups within ABUNDANCE,110.70584940883636,4.702385981792176e-30,,"Groups: Aggressive, Altruistic, Dominant"
+One-way ANOVA,Total_Robs,Personality groups within FAMINE,93.13020030816644,7.468291623553502e-27,,"Groups: Aggressive, Altruistic, Dominant"
+Welch t-test,Total_Hypocrisy,ABUNDANCE vs FAMINE within Aggressive,-2.6241388414735294,0.010852202692575393,-0.5248277682947059,Cohen_d reports ABUNDANCE - FAMINE
+Welch t-test,Total_Hypocrisy,ABUNDANCE vs FAMINE within Altruistic,-3.6669992893975785,0.0005018429012226147,-0.7333998578795156,Cohen_d reports ABUNDANCE - FAMINE
+Welch t-test,Total_Hypocrisy,ABUNDANCE vs FAMINE within Dominant,7.074067798344239,8.143844330486183e-10,1.4148135596688476,Cohen_d reports ABUNDANCE - FAMINE
+One-way ANOVA,Total_Hypocrisy,Personality groups within ABUNDANCE,130.19503913605797,2.8977184690014873e-33,,"Groups: Aggressive, Altruistic, Dominant"
+One-way ANOVA,Total_Hypocrisy,Personality groups within FAMINE,919.8556728946636,7.672172590293201e-84,,"Groups: Aggressive, Altruistic, Dominant"
+Chi-square,Died,Class Died difference within ABUNDANCE,0.4967326033203815,0.7800741484820148,,"[[101, 49], [96, 54], [101, 49]]"
+Chi-square,First_Casualty,Class First_Casualty difference within ABUNDANCE,15.926020130082485,0.0003481037240304927,,"[[132, 18], [111, 39], [134, 16]]"
+Chi-square,Died,Class Died difference within FAMINE,304.792267483778,6.534314786516302e-67,,"[[15, 135], [1, 149], [130, 20]]"
+Chi-square,First_Casualty,Class First_Casualty difference within FAMINE,441.05999999999995,1.6789505530582283e-96,,"[[150, 0], [1, 149], [149, 1]]"
